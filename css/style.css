@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav-logo img{
+    width: 40%;
+}
+.profile-img img{
+    width: 95%;
+}
+.output-height{
+    height: 500px;
+}
