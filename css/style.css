@@ -4,6 +4,7 @@
 }
 body{
     font-family: 'Poppins', sans-serif;
+    
 }
 .header-bg{
     background-color: #FFFBF0;
@@ -53,15 +54,19 @@ body{
     background-color: #8EA926 ;
     color: #FFFFFF ;
     border-radius: 10px;
-   
+}
+.icon-spaces{
+    margin-right: 9px;
 }
 
 .panguin-cards{
     border: 0;
+    
    
 }
 .cards-border{
     border-radius: 10px;
+    
 }
 .card-img {
     margin-top: 20px;
@@ -79,23 +84,23 @@ body{
     background-color: #FFFFFF;
 }
 
-.output-height{
+.About-us-height{
    height: 400px;
    
 }
-.connect-us{
+.output-list{
     margin-left:25px;
     text-align: justify;
 
 }
-.outputs img{
+.About-us img{
   width: 17%;
 }
-.connect{
+.output{
     height: 120px;
          
 }
-.connect-border{
+.About-us-border{
     border: 0;
     border-radius: 10px;
 }
