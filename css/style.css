@@ -2,12 +2,58 @@
     margin: 0;
     padding: 0;
 }
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.header-bg{
+    background-color: #FFFBF0;
+}
 .nav-logo img{
-    width: 40%;
+    width: 30%;
+    margin-left:25px;
+}
+.menu-color li a{
+    color: #3B3B3B;
+    font-size: 12px;
+    font-weight: 600;
+    margin-right: 20px;
 }
 .profile-img img{
     width: 95%;
 }
+
+.penguin-color{
+    font-size: 50px;
+    font-weight: 700;
+    color:#FAC153 ;
+}
+.winter-color{
+    font-size: 40px;
+    font-weight: 700;
+    color:#363958 ;
+}
+.prah-color{
+    color: dimgray;
+}
+
+.card-img {
+    margin-top: 20px;
+    margin-left: 40px;
+    width: 75% ;
+    height: 50%;
+    border-radius: 10px;
+    background-color: #F1F1F1;
+}
+.card-img img {
+    width: 75%  
+}
+
 .output-height{
-    height: 500px;
+   border: 2px solid tomato;
+}
+.outputs img{
+  width: 20%;
+
+.footer{
+   
 }
