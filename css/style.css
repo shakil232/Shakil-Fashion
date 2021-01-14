@@ -35,7 +35,34 @@ body{
 .prah-color{
     color: dimgray;
 }
+.card-heading-color{
+    color: #363958;
+    font-weight: 700;
+}
+.card-title-color{
+    color:#363958 ;
+    
+    font-weight: 600;
+}
+.card-price-color{
+    
+    font-weight: 600;
+    color:#FABE4C;
+}
+.btn-color{
+    background-color: #8EA926 ;
+    color: #FFFFFF ;
+    border-radius: 10px;
+   
+}
 
+.panguin-cards{
+    border: 0;
+   
+}
+.cards-border{
+    border-radius: 10px;
+}
 .card-img {
     margin-top: 20px;
     margin-left: 40px;
@@ -46,6 +73,10 @@ body{
 }
 .card-img img {
     width: 75%  
+}
+.panguin-cards-footer{
+    border:0;
+    background-color: #FFFFFF;
 }
 
 .output-height{
